@@ -129,5 +129,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
-
+.txt
+.txt/
 *.txt
+**.txt
+**/*.txt
+config/*.txt
